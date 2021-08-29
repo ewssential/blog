@@ -1,5 +1,8 @@
 # Link Collection
-[21/08/23 _Cheat-Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown] (2021-08-23) [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
-[21/08/23_Create-A-Blog](https://blog.cosmoplankton.studio/blogs/blog_markdown_github_pages.html)
+[Markdown] (2021-08-23) [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
+
+[Markdown] (2021-08-23) [Create-A-Blog_with-Markdown-And-Github-Pages](https://blog.cosmoplankton.studio/blogs/blog_markdown_github_pages.html)
 
